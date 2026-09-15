@@ -1,1 +1,13 @@
 # seniorproject1-repo
+
+## Problem Statement:
+Undergraduate students face a growing number of competing options on how to spend their time outside of coursework. From internships, certs, research, side projects, to student orgs. But, students have little structured basis for evaluating which choices are actually likely to translate into their specific career goals, especially since institutional advising is oftentimes generic, and resource guides tend to be static and impersonal. This leaves many students, especially first-gen students or those without professional networks, making high-stakes decisions on how to best allocate their time based on incomplete or anecdotal information. The problem centers on the absence of an accessible way to compare the relative value of these opportunities against a student’s stated goals and personal constraints. 
+
+
+## Product Description
+Vantage is a decision-support platform that helps undergrad students evaluate and prioritize how they spend their limited time outside of their coursework, including internships, certs, research, side projects, and student orgs, by comparing these options against their specific career goals. 
+
+Rather than offering the common generic advice or static resource lists, Vantage asks students to define a target outcome (e.g.: “break into Investment Banking at bulge bracket firms” or “get into a top-5 CS PhD program”), and then surfaces a structured comparison of relevant opportunity types based on the attributes that matter for that goal they have defined. This includes time management, skill development, signaling value to employers or programs, and where data is available, historical outcomes for students who have pursued similar paths. The platform does not tell students what to do, but gives them a common frame for weighing genuinely different kinds of opportunities against each other, something that seems currently left to informal advice, guesswork, or the network a student already has before they step on campus. 
+
+Vantage is built for students who lack easy access to that “insider knowledge” that actually lands students roles. This includes, but is not limited to: students who are first generation, those without professional networks, and students at under-resourced institutions (for whom this info gap carries the highest cost). In its initial scope, the platform will focus on one student population (e.g.: CS students looking for cloud computing roles) and a bounded set of comparable activity types, leaving room to expand to additional tracks and goal types as the underlying comparison framework is validated. 
+
